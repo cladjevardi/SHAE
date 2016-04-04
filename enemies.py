@@ -1,5 +1,6 @@
 """
 Module for enemies.
+(Rough draft and could use a lot more work, not currently implemented)
 """
 import pygame
 
